@@ -1,8 +1,23 @@
-# django-hello-world
-django hello world project
-## What is Django?
-Django is a free, open-source web framework written in Python. It allows developers to build robust, scalable, and secure web applications quickly by providing pre-built structures and tools, saving them from writing repetitive code from.
-## Is this your first using Django?
-Yes, It is and very chanllenging
-## my aim about this projet.
-To learn how to build a free app with Django in easy way possible
+# Hello, I'm Emmanuel Oyet Rwotomiya 💐
+⌨️Computer Science Student at the University of Nebraska - Lincoln
+💻Interesed in Software development, building real technical skills and system anyalsis
+⚙️i am learning python, java and computer science concepts
+
+#Technical Skills
+python
+Java
+SQL
+problem solving
+
+#Project I am working On
+YouAuto (Python)
+Revalt (Python)
+
+#Little About Me
+I am working on building my programming skill while balancing schools and Tracka and Filed program. Currently I am developing my technical skills, learing by doing, watching tutorial on YouTube and trying to get an internshipe to help me better my skills while working with experince engineers.
+
+#My Goal For 2026
+Improve my programming skills (Python, SQL)
+Build a good programming project
+
+
